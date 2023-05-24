@@ -1,0 +1,122 @@
+.user-form-label-text {
+    font-size: large;
+    font-weight: bold;
+}
+
+.user-form-error {
+    color: red;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 165px;
+    font-style: italic;
+    padding: 4px;
+}
+
+.user-form-card-shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.user-form-background {
+    background-color: aliceblue;
+}
+
+.user-align-center {
+    text-align-last: center;
+}
+
+.user-eye-toggle-password {
+    float: right;
+    margin-right: 6px;
+    margin-top: -30px;
+    position: relative;
+    z-index: 2;
+}
+
+.pwd_very_weak_color {
+    color: #828282;
+}
+
+.pwd_weak_color {
+    color: #EA1111;
+}
+
+.pwd_fear_color {
+    color: #FFAD00;
+}
+
+.pwd_good_color {
+    color: #9bc158;
+}
+
+.pwd_strong_color {
+    color: #00b500;
+}
+
+.pwd_progress_bar_height {
+    height: 7px;
+}
+
+.pwd_bar_length_0 {
+    width: 0%
+}
+
+.pwd_bar_length_25 {
+    width: 25%
+}
+
+.pwd_bar_length_50 {
+    width: 50%
+}
+
+.pwd_bar_length_75 {
+    width: 75%
+}
+
+.pwd_bar_length_100 {
+    width: 100%
+}
+
+.pwd_very_weak_bgcolor {
+    background: #828282;
+}
+
+.pwd_weak_bgcolor {
+    background: #EA1111;
+}
+
+.pwd_fear_bgcolor {
+    background: #FFAD00;
+}
+
+.pwd_good_bgcolor {
+    background: #9bc158;
+}
+
+.pwd_strong_bgcolor {
+    background: #00b500;
+}
+
+.filtering-by-display {
+    color: rgb(102, 102, 102);
+    padding-top: 36px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.user-filter-button-margin {
+    margin-left: 5px;
+}
+
+.user-list-paginate-margin {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.top-row-paginate {
+    text-align: center;
+    padding: 34px;
+}
+
+.user-logo{
+    width: 100%;
+}
